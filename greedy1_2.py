@@ -1,5 +1,5 @@
 # 효율 답안
-
+ 
 n, m, k = map(int, input().split())
 
 data = list(map(int, input().split()))
