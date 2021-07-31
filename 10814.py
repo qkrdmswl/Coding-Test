@@ -2,7 +2,7 @@
 
 
 # 1)
-import sys
+import sys 
 
 n = int(sys.stdin.readline())
 member = []
